@@ -19,5 +19,10 @@ List.isList([1,2,3]) // false
 
 // 长度：
 list.size
+
+// set/get
+const list2 = list1.set(0,'aaa');
+list2.get(0); // 'aaa'
+
 ```
 
