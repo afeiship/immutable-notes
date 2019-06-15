@@ -27,5 +27,8 @@ list2.get(0); // 'aaa'
 const list3 = list1.set(10, 666);
 // [1,2,3,undefined,...., 666];
 
+// 从右向左，第1个
+const list4 = list1.set(-1, 555);
+
 ```
 
