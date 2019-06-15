@@ -48,5 +48,18 @@ const list8 = list1.update(0, function(val){
 
 // other: push/pop/unshift/shift
 
+// setSize
+const l1 = List([1,2,3,4,5]);
+const l2 = l1.setSize(2);
+
+// 多维数组： setIn/deleteIn/insertIn....
+
+
+// merge/concat 这两个是相同的
+
+// filter/flattern(true/false) 
+// true: shalow
+// false: deep
+// find/findLast ......
 ```
 
