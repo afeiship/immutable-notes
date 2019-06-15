@@ -16,4 +16,8 @@ List([1,2,3])
 // List
 List.isList(list1) // true
 List.isList([1,2,3]) // false
+
+// 长度：
+list.size
 ```
+
